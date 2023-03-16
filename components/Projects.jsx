@@ -19,7 +19,7 @@ const Projects = () => {
         </p>
         <h2 className='py-4'>Mes projets</h2>
         <h6 className=' text-blue-800'>Cliquer sur les images pour obtenir plus d&apos;informations sur les projets</h6>
-        <p>Voici les différents projets que j&apos;ai pu effectués , pour le moment beaucoup sont issus de ma formation de Développeur Web chez OpenClassrooms néanmoins de nouveaux projets sont en cours de réalisation.
+        <p>Voici les différents projets que j&apos;ai pu effectués, pour le moment beaucoup sont issus de ma formation de Développeur Web chez OpenClassrooms néanmoins de nouveaux projets sont en cours de réalisation.
 </p>
 <p>Certains projets sont visitables directement pour les autres vous serez redirigé sur ma page <strong className='text-blue-500'>GitHub</strong></p>
         <div className='grid md:grid-cols-2 gap-8 mt-3'>
