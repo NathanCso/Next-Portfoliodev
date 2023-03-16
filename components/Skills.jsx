@@ -46,7 +46,7 @@ const Skills = () => {
                 <Image src={Javascript} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>JavaScript</h3>
+                <h3 className=' sm: text-xs'>JavaScript</h3>
               </div>
             </div>
           </div>
@@ -66,7 +66,7 @@ const Skills = () => {
                 <Image src={Tailwind} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>TailwindCSS</h3>
+                <h3>Tailwind</h3>
               </div>
             </div>
           </div>
