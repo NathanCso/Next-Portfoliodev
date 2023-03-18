@@ -9,6 +9,7 @@ import kasa from "../public/assets/projects/kasa.png"
 import ocean from "../public/assets/projects/ocean.png"
 import portfolio from "../public/assets/projects/student-portfolio.png"
 import ProjectItem from './ProjectItem';
+import gestion from "../public/assets/projects/gestion.png"
 
 const Projects = () => {
   return (
@@ -33,7 +34,7 @@ const Projects = () => {
             title='Traveliing'
             backgroundImg={travelliing}
             projectUrl='/crypto'
-            tech='React'
+            tech='React/Tailwind CSS'
 
           />
           <ProjectItem
@@ -71,6 +72,14 @@ const Projects = () => {
             backgroundImg={portfolio}
             projectUrl='/student'
             tech='Html/CSS'
+
+          />
+
+            <ProjectItem
+            title='Gestion Employés'
+            backgroundImg={gestion}
+            projectUrl='/gestion'
+            tech='PHP/MySQL'
 
           />
           
