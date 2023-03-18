@@ -18,7 +18,7 @@ const gestion = () => {
         <div className='col-span-4'>
           <h2>Description du projet</h2>
           <p>
-          Création d'une application contenant une gestion de base de données et de CRUD (Create,Read,Update,Delete) possibilité d'ajouter des employés , de les modifier et de les supprimer en temps réel
+          Création d&apos;une application contenant une gestion de base de données et de CRUD (Create,Read,Update,Delete) possibilité d&apos;ajouter des employés , de les modifier et de les supprimer en temps réel
           </p>
 
           <a
