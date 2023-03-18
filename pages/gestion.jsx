@@ -3,7 +3,7 @@ import React from 'react';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
-const property = () => {
+const gestion = () => {
   return (
     <div className='w-full'>
       <div className='w-screen h-[50vh] relative'>
@@ -53,4 +53,4 @@ const property = () => {
   );
 };
 
-export default property;
+export default gestion;
