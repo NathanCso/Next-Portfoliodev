@@ -10,6 +10,7 @@ import ocean from "../public/assets/projects/ocean.png"
 import portfolio from "../public/assets/projects/student-portfolio.png"
 import ProjectItem from './ProjectItem';
 import gestion from "../public/assets/projects/gestion.png"
+import netflix from "../public/assets/projects/netflix.png"
 
 const Projects = () => {
   return (
@@ -25,10 +26,10 @@ const Projects = () => {
 <p>Certains projets sont visitables directement pour les autres vous serez redirigé sur ma page <strong className='text-blue-500'>GitHub</strong></p>
         <div className='grid md:grid-cols-2 gap-8 mt-3'>
           <ProjectItem
-            title='Booki'
-            backgroundImg={booki}
+            title='Netflix-Clone'
+            backgroundImg={netflix}
             projectUrl='/property'
-            tech='HTML/CSS'
+            tech='React/Tailwind'
           />
           <ProjectItem
             title='Traveliing'
